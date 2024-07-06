@@ -1,0 +1,76 @@
+{
+  "hash": "ac3e2b0d",
+  "configHash": "2f8bc331",
+  "lockfileHash": "9ec114da",
+  "browserHash": "e26ab24d",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "9a89a68d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "ba0f50cf",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "d0893a32",
+      "needsInterop": true
+    },
+    "firebase/app": {
+      "src": "../../firebase/app/dist/esm/index.esm.js",
+      "file": "firebase_app.js",
+      "fileHash": "6f31e620",
+      "needsInterop": false
+    },
+    "firebase/auth": {
+      "src": "../../firebase/auth/dist/esm/index.esm.js",
+      "file": "firebase_auth.js",
+      "fileHash": "b50a95d3",
+      "needsInterop": false
+    },
+    "firebase/firestore": {
+      "src": "../../firebase/firestore/dist/esm/index.esm.js",
+      "file": "firebase_firestore.js",
+      "fileHash": "ec164d46",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "fa738115",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "b411e2e2",
+      "needsInterop": false
+    },
+    "react-toastify": {
+      "src": "../../react-toastify/dist/react-toastify.esm.mjs",
+      "file": "react-toastify.js",
+      "fileHash": "8c74d093",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-R3NXX2EK": {
+      "file": "chunk-R3NXX2EK.js"
+    },
+    "chunk-GZ55BCQ2": {
+      "file": "chunk-GZ55BCQ2.js"
+    },
+    "chunk-YZZKIYU7": {
+      "file": "chunk-YZZKIYU7.js"
+    },
+    "chunk-LQ2VYIYD": {
+      "file": "chunk-LQ2VYIYD.js"
+    }
+  }
+}
